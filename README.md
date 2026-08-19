@@ -35,16 +35,8 @@ I'm a full-stack developer with experience in:
 
 ---
 
-## 📫 How to Reach Me
-- **GitHub**: [@EmireKita](https://github.com/EmireKita)
-- Feel free to open issues, start discussions, or reach out for collaboration
-
----
-
 <div align="center">
 
 **Let's build something amazing together!** 🚀
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmireKita&show_icons=true&theme=radical)](https://github.com/EmireKita)
 
 </div>
