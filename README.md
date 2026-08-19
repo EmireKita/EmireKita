@@ -41,14 +41,6 @@ I'm a full-stack developer with experience in:
 
 ---
 
-## ⚡ Fun Facts
-- I believe in clean, maintainable, and well-documented code
-- Passionate about making data-driven decisions
-- Love collaborating and learning from the community
-- Always excited about new technologies and frameworks
-
----
-
 <div align="center">
 
 **Let's build something amazing together!** 🚀
